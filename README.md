@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @satish-kumar-pradhan
 - 👀 I’m interested in Data analytics and Optimisation.
+- Currently working as an Data Analyst and Optimisation Intern at PTV Karlsruhe. Working on Route Optimization and orienteering problem.
 - I have experience in Power Sector domain. 
 - 🌱 I’m currently pursuing a full time campus master degree in Data analytics and decision science at RWTH Aachen, Germany.
 - 💞️ I’m looking to collaborate on data analytics or optimisation projects online.
